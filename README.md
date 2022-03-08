@@ -6,6 +6,6 @@ Thread fred is a super fun game which tests your skills and reflexes in 10 uniqu
 **Disclaimer:** The game is in early stages of development, and thus no details of the games development is being discussed, this repo was created for the sole purpose of providing source code for our website.
 
 
-Website: https://threadfred.madforgames.repl.co
+**Website:** https://threadfred.madforgames.repl.co
 
-Github Repo: https://github.com/madforgamesweb/threadfred
+**Github Repo:** https://github.com/madforgamesweb/threadfred
